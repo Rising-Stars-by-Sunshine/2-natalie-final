@@ -42,13 +42,13 @@ Previous research had modeled urban growth concerning other factors, for example
 
 | Data |
 |------|
-| [Queried data](https://github.com/Rising-Stars-by-Sunshine/Natalie-Final-Project-Stats201/tree/main/data/Queried_Data) |
-| [Processed data](https://github.com/Rising-Stars-by-Sunshine/Natalie-Final-Project-Stats201/tree/main/data/Processed_Data) |
+| [Queried data](https://github.com/Rising-Stars-by-Sunshine/2-natalie-final/tree/main/Data/Queried_Data) |
+| [Processed data](https://github.com/Rising-Stars-by-Sunshine/2-natalie-final/tree/main/Data/Processed_Data) |
 
 | Code |
 |------|
-| [Process data](https://github.com/Rising-Stars-by-Sunshine/Natalie-Final-Project-Stats201/blob/main/code/Natalie_Final_Process.ipynb) |
-| [Analyze data](https://github.com/Rising-Stars-by-Sunshine/Natalie-Final-Project-Stats201/blob/main/code/Natalie_Final_Analyze.ipynb)|
+| [Process data](https://github.com/Rising-Stars-by-Sunshine/2-natalie-final/blob/main/Code/Natalie_Final_Process.ipynb) |
+| [Analyze data](https://github.com/Rising-Stars-by-Sunshine/2-natalie-final/blob/main/Code/Natalie_Final_Process%20(1).ipynb)|
 
 
 
